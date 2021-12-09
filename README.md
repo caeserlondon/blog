@@ -10,7 +10,6 @@ The general layout of a Rails application.
 The basic principles of MVC (Model, View, Controller) and RESTful design.
 How to quickly generate the starting pieces of a Rails application.
 
-
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
